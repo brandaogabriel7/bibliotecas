@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1504832937 source:c:\users\gabriel\desktop\inf\git\alp_inf_pratica_x_gabrielsilvabrandao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"agenda.h"
+
+1504831840 c:\users\gabriel\desktop\inf\git\alp_inf_pratica_x_gabrielsilvabrandao\agenda.h
+
